@@ -1,0 +1,12 @@
+# yarn
+node_modules/
+
+# Parcel
+/.cache/
+/dist/
+
+# TypeScript
+/.ts-cache/
+
+# Test
+/test/dist/
